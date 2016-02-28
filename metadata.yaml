@@ -1,0 +1,34 @@
+_repo: Germania-and-Agricola_9090
+creator:
+  author:
+    agent_name: Tacitus, Cornelius
+    aliases:
+    - Tacitus, Publius Cornelius
+    - Tacitus, Gaius Cornelius
+    - Tacitus, Caius Cornelius
+    birthdate: 56
+    deathdate: 117
+    gutenberg_agent_id: '2591'
+    url: http://www.gutenberg.org/2009/agents/2591
+    wikipedia: http://en.wikipedia.org/wiki/Tacitus
+description: ''
+gutenberg_bookshelf:
+- Classical Antiquity
+- Germany
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9090'
+language:
+- la
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agricola, Gnaeus Julius, 40-93'
+- !lcsh 'Germanic peoples -- Early works to 1800'
+- !lcc 'PA'
+- !lcsh 'Statesmen -- Rome -- Biography -- Early works to 1800'
+title: Germania and Agricola
+url: http://www.gutenberg.org/ebooks/9090

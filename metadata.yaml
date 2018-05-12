@@ -1,4 +1,8 @@
 _repo: Germania-and-Agricola_9090
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tacitus, Cornelius
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2591
     wikipedia: http://en.wikipedia.org/wiki/Tacitus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9090#Germania-and-Agricola
 gutenberg_bookshelf:
 - Classical Antiquity
 - Germany
